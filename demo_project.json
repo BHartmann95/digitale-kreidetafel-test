@@ -14,7 +14,7 @@
       "items": [
         { "name": "Pizza + Cola", "price": "8,90 €" },
         { "name": "Pasta Arrabiata", "price": "7,50 €" },
-        { "name": "Tiramisu", "price": "4,20 €" }
+        { "name": "Tiramisu", "price": "3,20 €" }
       ],
       "footer": "Solange der Vorrat reicht",
       "backgroundType": "color",
