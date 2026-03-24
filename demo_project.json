@@ -13,7 +13,7 @@
       "subtitle": "Heute frisch",
       "items": [
         { "name": "Pizza + Cola", "price": "12,90 €" },
-        { "name": "Pasta Arrabiata", "price": "7,50 €" },
+        { "name": "Pasta Arrabiata", "price": "8,50 €" },
         { "name": "Tiramisu", "price": "4,20 €" }
       ],
       "footer": "Solange der Vorrat reicht",
@@ -28,7 +28,7 @@
       "title": "Aktion",
       "subtitle": "Happy Hour",
       "items": [
-        { "name": "2 Cocktails", "price": "1 Gratis" }
+        { "name": "4 Cocktails", "price": "2 Gratis" }
       ],
       "footer": "Nur heute ab 18 Uhr",
       "backgroundType": "color",
