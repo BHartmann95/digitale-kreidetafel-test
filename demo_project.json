@@ -12,7 +12,7 @@
       "title": "Tagesmenü",
       "subtitle": "Heute frisch",
       "items": [
-        { "name": "Pizza + Cola", "price": "12,90 €" },
+        { "name": "Pizza + Cola", "price": "10,90 €" },
         { "name": "Pasta Arrabiata", "price": "8,50 €" },
         { "name": "Tiramisu", "price": "4,20 €" }
       ],
